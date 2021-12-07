@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "840376723433",
+    "firebase_url": "https://terratec-fbcfe-default-rtdb.firebaseio.com",
+    "project_id": "terratec-fbcfe",
+    "storage_bucket": "terratec-fbcfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840376723433:android:b95841b98a20620b058d78",
+        "android_client_info": {
+          "package_name": "com.example.appterra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840376723433-68aah1g2au5ethijgja6ifascndlv9lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnuyV66E73pdrrsAJgd2_S6tJSWv_NTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840376723433-68aah1g2au5ethijgja6ifascndlv9lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840376723433:android:7e409626cd9a1cab058d78",
+        "android_client_info": {
+          "package_name": "com.example.terratec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840376723433-68aah1g2au5ethijgja6ifascndlv9lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnuyV66E73pdrrsAJgd2_S6tJSWv_NTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840376723433-68aah1g2au5ethijgja6ifascndlv9lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
